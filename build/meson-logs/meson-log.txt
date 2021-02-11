@@ -1,0 +1,44 @@
+Build started at 2021-02-11T15:06:18.265789
+Main binary: /usr/bin/python3
+Build Options: -Dbackend=ninja
+Python system: Linux
+The Meson build system
+Version: 0.55.3
+Source dir: /home/mark/Documents/hello-world
+Build dir: /home/mark/Documents/hello-world/build
+Build type: native build
+None of 'PKG_CONFIG_PATH' are defined in the environment, not changing global flags.
+None of 'PKG_CONFIG_PATH' are defined in the environment, not changing global flags.
+Project name: hello-world
+Project version: 0.1
+C compiler for the build machine: cc (gcc 10.2.0 "cc (Ubuntu 10.2.0-13ubuntu1) 10.2.0")
+C linker for the build machine: cc ld.bfd 2.35.1
+None of 'AR' are defined in the environment, not changing global flags.
+C compiler for the host machine: cc (gcc 10.2.0 "cc (Ubuntu 10.2.0-13ubuntu1) 10.2.0")
+C linker for the host machine: cc ld.bfd 2.35.1
+None of 'AR' are defined in the environment, not changing global flags.
+Build machine cpu family: aarch64
+Build machine cpu: aarch64
+Host machine cpu family: aarch64
+Host machine cpu: aarch64
+Target machine cpu family: aarch64
+Target machine cpu: aarch64
+Adding test "basic"
+Build targets in project: 1
+
+Found ninja-1.10.0 at /usr/bin/ninja
+Running compile:
+Working directory:  /home/mark/Documents/hello-world/build/meson-private/tmpsru5o0v4
+Command line:  cc /home/mark/Documents/hello-world/build/meson-private/tmpsru5o0v4/testfile.c -o /home/mark/Documents/hello-world/build/meson-private/tmpsru5o0v4/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 --print-search-dirs 
+
+Code:
+ 
+Compiler stdout:
+ install: /usr/lib/gcc/aarch64-linux-gnu/10/
+programs: =/usr/lib/gcc/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/bin/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/bin/aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/bin/
+libraries: =/usr/lib/gcc/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/lib/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/lib/aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/lib/../lib/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../lib/:/lib/aarch64-linux-gnu/10/:/lib/aarch64-linux-gnu/:/lib/../lib/:/usr/lib/aarch64-linux-gnu/10/:/usr/lib/aarch64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/lib/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../:/lib/:/usr/lib/
+
+Compiler stderr:
+ 
+None of 'STRIP' are defined in the environment, not changing global flags.
+None of 'STRIP' are defined in the environment, not changing global flags.

@@ -1,0 +1,8 @@
+[
+  {
+    "directory": "/home/mark/Documents/hello-world/build",
+    "command": "cc -Ihello_world.p -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -g -MD -MQ hello_world.p/src_hello_world.c.o -MF hello_world.p/src_hello_world.c.o.d -o hello_world.p/src_hello_world.c.o -c ../src/hello_world.c",
+    "file": "../src/hello_world.c",
+    "output": "hello_world.p/src_hello_world.c.o"
+  }
+]

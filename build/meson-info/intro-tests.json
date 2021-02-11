@@ -1,0 +1,1 @@
+[{"cmd": ["/home/mark/Documents/hello-world/build/hello_world"], "env": {}, "name": "basic", "workdir": null, "timeout": 30, "suite": ["hello-world"], "is_parallel": true, "priority": 0, "protocol": "exitcode"}]
